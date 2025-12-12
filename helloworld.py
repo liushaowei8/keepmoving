@@ -1,2 +1,3 @@
+#keep腾讯云对象存储使用
 akid：AKIDra8TBk9KJ7h295mHYbS5X59KWtaq8w2x
 sk：jEYfZKwMXUFqFXbWKwKXY23IF2Oqh210
